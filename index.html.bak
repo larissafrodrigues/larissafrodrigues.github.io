@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177238807-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177238807-2');
+  </script>
+
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Larissa F. Rodrigues Moreira, PhD</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favico.ico" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Acadmicons-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+  <!-- Font -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: iPortfolio - v1.4.0
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="index.html">Larissa</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://scholar.google.com/citations?user=p9xh4XkAAAAJ&hl=en" target="_blank" class="google-plus"><i class="ai ai-google-scholar"></i></a>
+          <a href="https://www.researchgate.net/profile/Larissa_Ferreira_Rodrigues" target="_blank" class="researchgate"><i class="ai ai-researchgate"></i>
+          <a href="http://lattes.cnpq.br/7340824843708398" target="_blank" class="linkedin"><i class="ai ai-lattes"></i></a>
+          <a href="https://twitter.com/larissa_frm" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+        </div>
+      </div>
+
+      <nav class="nav-menu">
+        <ul>
+          <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>About</span></a></li>
+          <li><a href="assets/cv/full_cv.pdf" target="_blank"><i class="bx bx-file"></i> <span>Full CV</span></a></li>
+          <li><a href="#portfolio"><i class="bx bx-book-content"></i> Publications</a></li>
+          <li><a href="#projects"><i class="bx bx-bar-chart-alt"></i> Research</a></li>
+          <li><a href="#teaching"><i class="bx bx-edit-alt"></i> Teaching</a></li>
+          <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+      <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>Larissa F. Rodrigues Moreira, PhD</h1>
+      <p>I'm <span class="typed" data-typed-items="PhD in Computer Science, Computer Scientist, Researcher Computer Vision, Researcher Artificial Intelligence"></span></p>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About</h2>
+
+          <div class="row">
+            <div class="col-lg-4" data-aos="fade-right">
+              <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+            </div>
+            <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+              <p> Larissa Ferreira Rodrigues Moreira received a Ph.D. in Computer Science in 2024 from the Federal University of Uberlândia</a>, Brazil.
+              She received her B.Sc. degree in Computer Information Systems in 2016 and her M.Sc. degree in Computer Science in 2018, both from Federal University of Viçosa, Brazil. 
+              Larissa is currently a Professor at <a href="https://www.ufv.br/" target="_blank"> Federal University of Viçosa</a>.
+              Her research interests include Artificial Intelligence, Computer Vision, and Image Processing.</p>
+  
+            <h3 class="resume-title">Education</h3>
+              <div class="resume-item">
+                <h4>Ph.D. in Computer Science</h4>
+                <h5>2020 - 2024</h5>
+                <p> <strong> Institution: </strong> <em>Federal University of Uberlândia</em></p>
+                <p> <strong> Advisors: </strong><em>André R. Backes and Bruno A. Nassif Travençolo</em></p>
+                <p> <strong> Title: </strong> <a href = "http://doi.org/10.14393/ufu.te.2024.675" target="_blank"> Artificial Intelligence as a Service Architecture: an innovative approach for Computer Vision applications</a></p>
+              </div>
+              <div class="resume-item">
+                <h4>M.Sc. in Computer Science</h4>
+                <h5>2016 - 2018</h5>
+                <p> <strong> Institution: </strong> <em>Federal University of Viçosa</em></p>
+                <p> <strong> Advisors: </strong><em>Murilo Coelho Naldi and João Fernando Mari</em></p>
+                <p> <strong> Title: </strong> <a href = "https://www.locus.ufv.br/bitstream/123456789/25441/1/texto%20completo.pdf" target="_blank"> Comparison between convolutional neural networks and preprocessing techniques to classify HEp-2 cells in immunofluorescence images </a></p>
+              </div>
+              <div class="resume-item">
+                <h4>B.Sc. in Computer Information Systems</h4>
+                <h5>2012 - 2016</h5>
+                <p> <strong> Institution: </strong> <em>Federal University of Viçosa, Campus Rio Paranaíba</em></p>
+                <p> <strong> Advisor: </strong><em>João Fernando Mari</em></p>
+                <p> <strong> Title: </strong> <a href = "https://www.researchgate.net/publication/327557130_Morphological_analysis_and_classification_of_erythrocytes_in_microscopy_images" target="_blank"> Segmentation and classification of erythrocytes in microscopy images  </a></p>
+              </div>
+            </div>
+          </div>
+          
+          <h3 class="resume-title"> <i class="fa fa-trophy"></i> Selected Honors</h3>
+          <div class="portfolio-item">
+            <ul> 
+              <li> Workshop of Computer Vision - Best Paper Award (2023)  </li> 
+			        <li> 1st place Hackathon Fortinet, SBRC (2021) </li>
+              <li> Research Merit Award, WSIS (2021) </li>
+              <li> Honorable Mention, WSIS (2021) </li>
+              <li> Symposium for Academic Integration - Research Merit Award (2020) 
+                <a href="https://youtu.be/PX1778n7I7E" target="_blank">[<strong>Video</strong>]</a> </li>
+              <li> Symposium for Academic Integration - Research Merit Award (2019) </li>
+              <li> Workshop of Computer Vision - Best Paper Award (2018)  </li> 
+              <li> Symposium for Academic Integration - Honorable Mention (2018) </li>
+              <li> Brazilian Society of Cartography Congress - Best Paper Award (2017) </li>
+              <li> 2nd place at the Paper Competition - Judicial Police, ADPESP and IBRAJUS (2015) </li>
+              <li> Honorable Mention, WIE (2015) </li>
+              <li> Arthur Bernardes Award - Universidade Federal de Viçosa (2014) </li>
+              <li> Brazilian Mathematical Olympiad of Public Schools - Honorable Mention (2009) </li>
+            </ul>
+        </div>
+
+
+       </div>
+    </section><!-- End Resume Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Publications</h2>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-journal-paper">Journals</li>
+              <li data-filter=".filter-conference-paper">Conferences</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">  
+
+        <div class="portfolio-item filter-journal-paper">
+          <ul>
+            <li> <strong> Rodrigues Moreira, L. F. </strong>, Moreira, R., Travençolo, B. A. N., Backes, A. R. 
+              "Deep learning based image classification for embedded devices: A systematic review.".
+              <em>Neurocomputing</em>, 2025.  
+              <a href="http://dx.doi.org/10.1016/j.neucom.2025.129402" target="_blank">[<strong>Link</strong>]</a>
+            </li> </ul>
+        </div>	                       
+
+        <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Costa, P. L. O., Costa, T. M. O., <strong> Rodrigues Moreira, L. F. </strong>, Silva, L. H. F., Mari, J. F. 
+                "Classification of Agricultural Pests Through Digital Images Using Deep Learning".
+                <em>Revista de Informática Teórica e Aplicada</em>, 2025.  
+                <a href="http://dx.doi.org/10.22456/2175-2745.143520" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	 
+
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Souto de Lima, J. V., Marinho e Silva, R., Moreira, R., <strong> Rodrigues Moreira, L. F.</strong>
+                "Preprocessing and Optimizer impact on Image-Based Autoimmune Disease Diagnosis.".
+                <em>Revista de Informática Teórica e Aplicada</em>, 2025.  
+                <a href="http://dx.doi.org/10.22456/2175-2745.143545" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	  
+          
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Jansen, V. F., Martins, E. T., Lima, Y. S., Oliveira Silva, F., Moreira, R., <strong> Rodrigues Moreira, L. F.</strong>
+                "Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning".
+                <em>Revista de Informática Teórica e Aplicada</em>, 2025.  
+                <a href="http://dx.doi.org/10.22456/2175-2745.143508" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	       
+
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Mesquita, Y. M., <strong> Rodrigues Moreira, L. F.</strong>, Nunes, R. S., De Paula Júnior, I. C.
+                "A Novel Brazilian Dataset for Automatic Detection of Psyllid Attacksin Guava".
+                <em>Revista de Informática Teórica e Aplicada</em>, 2025.  
+                <a href="http://dx.doi.org/10.22456/2175-2745.143544" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	  
+
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Barbosa, G. V., Rodrigues, L. G. F., <strong> Rodrigues Moreira, L. F.</strong>, Backes, A. R.
+                "Federated Learning in Breast Cancer Diagnosis".
+                <em>Revista de Informática Teórica e Aplicada</em>, 2025.  
+                <a href="http://dx.doi.org/10.22456/2175-2745.143480" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	           
+
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Rodrigues, L. G. F., Barbosa, G. V., Moreira, R., <strong> Rodrigues Moreira, L. F.</strong>, Backes, A. R.
+                "Medical Image Classification with Privacy: Centralized and Federated Learning Comparison".
+                <em>Revista de Informática Teórica e Aplicada</em>, 2025.  
+                <a href="http://dx.doi.org/10.22456/2175-2745.143478" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	           
+          
+
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Moreira, R., <strong> Rodrigues Moreira, L. F. </strong>, de Oliveira Silva, F. 
+                "Brazilian Selic Rate Forecasting with Deep Neural Networks".
+                <em>Computational Economics</em>, 2024.  
+                <a href="https://doi.org/10.1007/s10614-024-10597-2" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	            
+
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Bergmann, M., <strong> Rodrigues Moreira, L. F. </strong>, Krohling, B., Silveira, T.L.T., Jung, C.R., Tang, J., Feitosa, M., Gomes, R.L., Soares, B.N.  
+                "An approach based on LiDAR and spherical images for automated vegetation inspection in urban power distribution lines".
+                <em>IEEE Access</em>, 2024.  
+                <a href="https://doi.org/10.1109/ACCESS.2024.3431466" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	                  
+
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Moreira, R., <strong> Rodrigues Moreira, L. F. </strong>, de Oliveira Silva, F. 
+                "An intelligent network monitoring approach for online classification of Darknet traffic".
+                <em>Computers and Electrical Engineering</em>, 2023.  
+                <a href="https://doi.org/10.1016/j.compeleceng.2023.108852" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	          
+		
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> <strong> Rodrigues Moreira, L. F. </strong>, Moreira, R., Travençolo, B. A. N., Backes, A. R. 
+                "An Artificial Intelligence-as-a-Service Architecture for deep learning model embodiment on low-cost devices: A case study of COVID-19 diagnosis".
+                <em>Applied Soft Computing</em>, 2023.  
+                <a href="https://doi.org/10.1016/j.asoc.2023.110014" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>		
+		
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Moreira, R.,<strong> Rodrigues Moreira, L. F. </strong>, Munhoz, P. L. A., Lopes, E. A. Ruas, R. A. A. 
+                "AgroLens: A low-cost and green-friendly Smart Farm Architecture to support realtime leaf disease diagnostics".
+                <em>Internet of Things</em>, 2022.  
+                <a href="https://doi.org/10.1016/j.iot.2022.100570" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+		
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> <strong> Rodrigues, L. F. </strong>, Backes, A. R., Travençolo, B. A. N., Oliveira, G. M. B. 
+                "Optimizing a deep Residual Neural Network with Genetic Algorithm for Acute Lymphoblastic Leukemia classification".
+                <em>Journal of Digital Imaging</em>, 2022.  
+                <a href="https://doi.org/10.1007/s10278-022-00600-3" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Reis, M. V. D., <strong> Rodrigues Moreira, L. F. </strong>, Moreira, R., Silva, F. O.
+                "Estimating Application Performance in Container-based Environments: A Cross-Domain Monitoring Approach".
+                In: 39th International Conference on Advanced Information Networking and Applications (AINA-2025), Barcelona, 2025.
+                <a href="#" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	       
+          
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Mari, J. F., <strong> Rodrigues Moreira, L. F. </strong>, Silva, L., Escarpinati, M., Backes, A.
+                "Breast Cancer Image Classification Using Deep Learning and Test-Time Augmentation".
+                In: 20th International Conference on Computer Vision Theory and Applications (VISAPP 2025), Porto, 2025.
+                <a href="http://dx.doi.org/10.5220/0013359200003912" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	                    
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> <strong> Rodrigues Moreira, L. F. </strong>, Saar, L. N. B. F., Moreira, R., Rodrigues, L. G. F., Travençolo, B., Backes, A.
+                "Enabling Intelligence on Edge Through an Artificial Intelligence as a Service Architecture".
+                In: IEEE 13th International Conference on Cloud Networking (CloudNet), Rio de Janeiro, 2024.
+                <a href="http://dx.doi.org/10.1109/CloudNet62863.2024.10815777" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	    
+          
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> <strong> Rodrigues Moreira, L. F. </strong>, Moreira, R., Martins, E. T., Janse, V.F., Lima, Y. S., Rodrigues, L. G. F., Travençolo, B., Backes, A.
+                "Maximizing the Power of Cognitive Services with an AI-as-a-Service Architecture for Seamless Delivery".
+                In: IEEE 13th International Conference on Cloud Networking (CloudNet), Rio de Janeiro, 2024.
+                <a href="http://dx.doi.org/10.1109/CloudNet62863.2024.10815871" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>          
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Oliveira, J. M., Almeida, J., De Britto e Silva, E., <strong> Rodrigues Moreira, L. F. </strong>, Moreira, R., Silva, F. O., Macedo, D. F., Nogueira, J. M.
+                "Anomaly Detection Employing a 5G Core Data Analytics Framework".
+                In: IEEE 13th International Conference on Cloud Networking (CloudNet), Rio de Janeiro, 2024.
+                <a href="http://dx.doi.org/10.1109/CloudNet62863.2024.10815754" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>             
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Barbosa, G., <strong> Rodrigues Moreira, L. F. </strong>, Sousa, P. M., Moreira, R., Backes, A.
+                "Optimization and Learning Rate Influence on Breast Cancer Image Classification".
+                In: 19th International Conference on Computer Vision Theory and Applications (VISAPP 2024), Rome, 2024.
+                <a href="https://dx.doi.org/10.5220/0012507100003660" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	          
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Mesquita, I.M., Alves, S.A., Nunes, R.S., Albuquerque, L.T., Aragão, F.A.P., <strong> Rodrigues Moreira, L. F. </strong>, de Paula Júnior, I.C.
+                "Enabling Water Management System for Agriculture Using a Low Cost Approach".
+                In: XIV Brazilian Symposium on Computing Systems Engineering (SBESC), Recife, 2024.
+                <a href="https://dx.doi.org/10.1109/SBESC65055.2024.10771923" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	           
+          
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> <strong> Rodrigues Moreira, L. F. </strong>, Moreira, R., de Oliveira Silva, F., Backes, A.
+                "Towards Cognitive Service Delivery on B5G through AIaaS Architecture".
+                In: IV Workshop de Redes 6G, Niterói, 2024.
+                <a href="https://dx.doi.org/10.5753/w6g.2024.3304" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	     
+          
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Monteiro, D.P., Saar, L.N., <strong> Rodrigues Moreira, L. F. </strong>, Moreira, R.
+                "On Enhancing Network Throughput using Reinforcement Learning in Sliced Testbeds".
+                In: XIV Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2024), Niterói, 2024.
+                <a href="https://dx.doi.org/10.5753/wpeif.2024.2094" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	         
+          
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Moreira, R., <strong> Rodrigues Moreira, L. F. </strong>, Carvalho, T.C., de Oliveira Silva, F.
+                "Resource Allocation Influence on Application Performance in Sliced Testbeds".
+                In: XIV Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2024), Niterói, 2024.
+                <a href="https://dx.doi.org/10.5753/wpeif.2024.2095" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	 
+          
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> <strong> Rodrigues Moreira, L. F. </strong>, Soares, L.S., Martinhago, A.Z.
+                "Inspiring Women in Technology: Educational Pathways and Impact".
+                In: Women in Information Technology (WIT 2024), Brasília, 2024.
+                <a href="https://dx.doi.org/10.5753/wit.2024.1910" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	    
+          
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Pereira Neto, R.G., Sousa, P.M., <strong> Rodrigues Moreira, L. F. </strong>, God, P.I.V.G., Mari, J.F.
+                "Enhancing green coffee quality assessment through deep learning".
+                In: XVIII Workshop de Visão Computacional (WVC 2023), São Bernardo do Campo, 2023.
+                <a href="https://dx.doi.org/10.5753/wvc.2023.27537" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	     
+          
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Mota, G.S.L., Silva, L.H.F.P., <strong> Rodrigues Moreira, L. F. </strong>, Mari, J.F.
+                "Classifying pests in crop images using deep learning".
+                In: XVIII Workshop de Visão Computacional (WVC 2023), São Bernardo do Campo, 2023.
+                <a href="https://dx.doi.org/10.5753/wvc.2023.27530" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	           
+          
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Cardoso, V. J. A, Moreira, R., Mari, J. F., <strong> Rodrigues Moreira, L. F. </strong>
+                "Improving Sickle Cell Disease Classification: A Fusion of Conventional Classifiers, Segmented Images, and Convolutional Neural Networks".
+                In: XX Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2023), Belo Horizonte, Brazil, 2022.
+                <a href="https://doi.org/10.5753/eniac.2023.234076" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>	          
+		  
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Antico, T. M., <strong> Rodrigues Moreira, L. F. </strong>, Moreira, R.
+                "Evaluating the Potential of Federated Learning for Maize Leaf Disease Prediction".
+                In: XIX Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2022), Campinas, Brazil, 2022.
+                <a href="https://doi.org/10.5753/eniac.2022.227293" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>		  
+		  
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Moreira, R., da Cunha, H. V. O., <strong> Rodrigues Moreira, L. F. </strong>, Silva, F. O.
+                "VINEVI: A Virtualized Network Vision Architecture for Smart Monitoring of Heterogeneous Applications and Infrastructures".
+                In: Barolli, L., Hussain, F., Enokido, T. (eds) Advanced Information Networking and Applications. AINA 2022. Lecture Notes in Networks and Systems, vol 449. Springer, Cham.
+                <a href="https://doi.org/10.1007/978-3-030-99584-3_46" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Silva, N. A. de O., Moreira, R., <strong> Rodrigues, L. F. </strong>, Marinho e Silva, R.
+                "A Low-cost IoT Architecture to support Urban Mobility for Visually Impaired People".
+                In: XII Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2021), Uberlândia, Brazil, 2021.
+                <a href="https://doi.org/10.5753/wpeif.2021.17193" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Oliveira Neto, R. R., <strong> Rodrigues, L. F. </strong>, Mari, J.F., Naldi, M.C., Milagres, E. G., Vital, B. R., Carneiro, A. C. O., Binoti, D. H. B., Lopes, P. F., Leite, H. G. 
+                "Automatic identification of charcoal origin based on deep learning".
+                <em>Maderas-Ciencia y Tecnologia</em>, v. 23, p. 1-19, 2021.  
+                <a href="http://revistas.ubiobio.cl/index.php/MCT/article/view/4921" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Moreira, R., <strong> Rodrigues, L. F. </strong>, Rosa, P. F.,  Aguiar, R. L., Silva, F. O.
+                "Enhancing dynamism in management and network slice establishment through deep learning".
+                In: International Conference on Information Networking (ICOIN), Korea (South), 2021.
+                <a href="https://doi.org/10.1109/ICOIN50884.2021.9333872" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Moreira, R., <strong> Rodrigues, L. F. </strong>, Rosa, P. F.,  Aguiar, R. L., Silva, F. O.
+                "Packet Vision: a convolutional neural network approach for network traffic classification".
+                In: Conference on Graphics, Patterns and Images (SIBGRAPI), Brazil, 2020.
+                <a href="https://doi.org/10.1109/SIBGRAPI51738.2020.00042" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+    
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Moreira, R., <strong> Rodrigues, L. F. </strong>, Rosa, P. F., Silva, F. O.
+                "Improving the network traffic classification using the Packet Vision approach".
+                In: Workshop of Computer Vision (WVC), Uberlândia, Brazil, 2020.
+                <a href="https://doi.org/10.5753/wvc.2020.13496" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Rodrigues, L. G. F., <strong> Rodrigues, L. F. </strong>, Silva, D. F., Mari, J. F.
+                "Evaluating Convolutional Neural Networks for COVID-19 classification in chest X-ray images".
+                In: Workshop of Computer Vision (WVC), Uberlândia, Brazil, 2020.
+                <a href="https://doi.org/10.5753/wvc.2020.13480" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> da Silva, M. V., <strong> Rodrigues, L. F. </strong>, Mari, J. F.
+                "Optimizing data augmentation policies for convolutional neural networks based classification of sickle cells".
+                In: Workshop of Computer Vision (WVC), Uberlândia, Brazil, 2020.
+                <a href="https://doi.org/10.5753/wvc.2020.13479" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-conference-paper">
+            <ul>
+              <li> Rocha, E. L., <strong> Rodrigues, L. F. </strong>, Mari, J. F.
+                "Maize leaf disease classification using convolutional neural networks and hyperparameter optimization".
+                In: Workshop of Computer Vision (WVC), Uberlândia, Brazil, 2020.
+                <a href="https://doi.org/10.5753/wvc.2020.13489" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-journal-paper">
+              <ul>
+                <li> <strong> Rodrigues, L. F. </strong>, Naldi, M.C., Mari, J.F. 
+                  "Comparing convolutional neural networks and preprocessing techniques for HEp-2 cell classification in immunofluorescence images".
+                  <em>Computers in Biology and Medicine</em>, v. 116, p. 1-14, 2019.  
+                  <a href="https://doi.org/10.1016/j.compbiomed.2019.103542" target="_blank">[<strong>Link</strong>]</a>
+                </li> </ul>
+          </div>
+
+          <div class="portfolio-item filter-journal-paper">
+            <ul>
+              <li> Alves, I. L. R., Silva, W. H., Nunes, G. V., <strong> Rodrigues, L. F. </strong>, Godoi, P. N. A.
+                "Aplicação web para apoiar as atividades extensionistas da Escola de Música 'O Som do Cerrado'".
+                <em>Revista UFG-Online</em>, v. 19, p. 1-14, 2019.  
+                <a href="https://doi.org/10.5216/revufg.v19.60606" target="_blank">[<strong>Link</strong>]</a>
+              </li> </ul>
+        </div>
+
+        <div class="portfolio-item filter-conference-paper">
+          <ul>
+            <li> <strong> Rodrigues, L. </strong>, Reis, R., Reis, C.,  Moreira, R.
+              "Fronteira entre o uso da Eletrônica baseada em Hardware Livre e Robótica no Contexto Educacional".
+              In: Anais do XXXI Simpósio Brasileiro de Informática na Educação, Brazil, 2020.
+              <a href="https://doi.org/10.5753/cbie.sbie.2020.1833" target="_blank">[<strong>Link</strong>]</a>
+            </li> </ul>
+        </div>
+
+        <div class="portfolio-item filter-conference-paper">
+          <ul>
+            <li> Reis, R., <strong> Rodrigues, L. F. </strong>, Munhoz, P.L.A., Lyra, K., Isotani, S.
+              "Uso do Arduino para Ensino de Conceitos Intermediários de Programação".
+              In: VIII Congresso Brasileiro de Informática na Educação, 2019, Brasília. Anais dos Workshops do VIII Congresso Brasileiro de Informática na Educação (CBIE 2019), 2019. p. 198.  
+              <a href="http://dx.doi.org/10.5753/cbie.wcbie.2019.198" target="_blank">[<strong>Link</strong>]</a>
+            </li> </ul>
+      </div>
+
+        <div class="portfolio-item filter-conference-paper">
+          <ul>
+            <li> Reis, R., <strong> Rodrigues, L. F. </strong>, Munhoz, P.L.A., Lyra, K., Isotani, S.
+              "Robótica Educacional como método principal de ensino em práticas de programação".
+              In: XXV Workshop de Informática na Escola, 2019, Brasília. Anais do XXV Workshop de Informática na Escola (WIE 2019), 2019. p. 1229.  
+              <a href="http://dx.doi.org/10.5753/cbie.wie.2019.1229" target="_blank">[<strong>Link</strong>]</a>
+            </li> </ul>
+      </div>
+
+      <div class="portfolio-item filter-journal-paper">
+        <ul>
+          <li> Silva, P., Sperandio, V., <strong> Rodrigues, L.</strong>, Dias, V., Loti, L., Lisboa, M., Oliveira, G., Miranda, G., Martins, G., Monteiro, C., Mendes, V., Lisboa Filho, J. 
+            "Bases Cartográficas para Municípios de Pequeno Porte geradas por Informação Geográfica Voluntária".
+            <em>Revista Brasileira de Cartografia</em>, v. 70, p. 1664-1685, 2018.  
+            <a href="dx.doi.org/10.14393/rbcv70n5-44572" target="_blank">[<strong>Link</strong>]</a>
+          </li> </ul>
+      </div>
+
+      <div class="portfolio-item filter-conference-paper">
+        <ul>
+          <li> Faria, L. C. de, <strong> Rodrigues, L. F. </strong>, Mari, J. F.
+            "Cell classification using handcrafted features and bag of visual words".
+            In: Workshop de Visão Computacional (WVC), 2018, Ilhéus, Brazil.
+            <a href="https://www.researchgate.net/profile/Larissa_Ferreira_Rodrigues/publication/331181776_Cell_classification_using_handcrafted_features_and_bag_of_visual_words/links/5c6b4780a6fdcc404ebad6f1/Cell-classification-using-handcrafted-features-and-bag-of-visual-words.pdf" target="_blank">[<strong>Link</strong>]</a>
+          </li> </ul>
+      </div>
+
+      <div class="portfolio-item filter-conference-paper">
+        <ul>
+          <li> Loti, L.B.S, Lisboa, M.H.M., Dias, V.E.C., Oliveira, G.D., Martins, G.S., Monteiro, C.R., <strong> Rodrigues, L. F. </strong>, Sperandio, V.G., Mendes, V.F., Lisboa Filho, J.
+            "Informação geográfica voluntária como fonte de dados para cartografia básica de municípios de pequeno porte".
+            In: XXVII Congresso Brasileiro de Cartografia, Rio de Janeiro, Brazil, 2017. 
+            <a href="http://www.cartografia.org.br/cbc/2017/trabalhos/6/fullpaper/CT06-20_1505824505.pdf" target="_blank">[<strong>Link</strong>]</a>
+          </li> </ul>
+      </div>
+
+
+      <div class="portfolio-item filter-conference-paper">
+        <ul>
+          <li> <strong> Rodrigues, L. F. </strong>, Naldi, M. C., Mari, J. F.
+            "Exploiting Convolutional Neural Networks and Preprocessing Techniques for HEp-2 Cell Classification in Immunofluorescence Images".
+            In: Conference on Graphics, Patterns and Images (SIBGRAPI), Niterói, Brazil, 2017.
+            <a href="https://doi.org/10.1109/SIBGRAPI.2017.29" target="_blank">[<strong>Link</strong>]</a>
+          </li> </ul>
+      </div>
+
+      <div class="portfolio-item filter-conference-paper">
+        <ul>
+          <li> <strong> Rodrigues, L. F. </strong>, Naldi, M. C., Mari, J. F.
+            "HEp-2 Cell Image Classification Based on Convolutional Neural Networks".
+            In: Workshop of Computer Vision (WVC), Natal, Brazil, 2017.
+            <a href="https://doi.org/10.1109/WVC.2017.00010" target="_blank">[<strong>Link</strong>]</a>
+          </li> </ul>
+      </div>
+
+      <div class="portfolio-item filter-conference-paper">
+        <ul>
+          <li> <strong> Rodrigues, L. F. </strong>, Naldi, M. C., Mari, J. F.
+            "Morphological analysis and classification of erythrocytes in microscopy images.".
+            In: Workshop de Visão Computacional (WVC), Campo Grande, Brazil, 2016.
+            <a href="https://www.researchgate.net/publication/327557130_Morphological_analysis_and_classification_of_erythrocytes_in_microscopy_images/" target="_blank">[<strong>Link</strong>]</a>
+          </li> </ul>
+      </div>
+
+      <div class="portfolio-item filter-conference-paper">
+        <ul>
+          <li> <strong> Rodrigues, L. F. </strong>, Silva J.H., Gondim, P.H.C.C., Mari, J. F.
+            "Leukocytes classification in microscopy images for acute lymphoblastic leukemia identification".
+            In: Workshop de Visão Computacional (WVC), Campo Grande, Brazil, 2016.
+            <a href="https://www.researchgate.net/publication/327557651_Leukocytes_classification_in_microscopy_images_for_acute_lymphoblastic_leukemia_identification" target="_blank">[<strong>Link</strong>]</a>
+          </li> </ul>
+      </div>
+
+      <div class="portfolio-item filter-journal-paper">
+        <ul>
+          <li> Nunes, M. M., <strong> Rodrigues, L. F. </strong>, Martinhago, A., Soares, L., Reis, R.
+            "Meninas++: uma iniciativa para fomentar a participação feminina na área de computação".
+            <em>Tecnologias, Sociedade e Conhecimento</em>, v. 3, p. 58-78, 2016.  
+            <a href="http://pan.nied.unicamp.br/ojs/index.php/tsc/article/view/151" target="_blank">[<strong>Link</strong>]</a>
+          </li> </ul>
+    </div>
+
+    <div class="portfolio-item filter-conference-paper">
+      <ul>
+        <li> Nunes, M. M., <strong> Rodrigues, L. F. </strong>, Martinhago, A., Soares, L., Reis, R.
+          "Uma iniciativa para atrair as estudantes do ensino médio para a Área de Tecnologia da Informação".
+          In: Workshop de Informática na Escola (WIE), Maceió, Brazil, 2015. 
+          <a href="http://br-ie.org/pub/index.php/wie/article/download/5068/3473" target="_blank">[<strong>Link</strong>]</a>
+        </li> </ul>
+    </div>
+
+      </div>
+    </div>
+       
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Projects Section ======= -->
+    <section id="projects" class="projects">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Research</h2>
+          <p> Here are my main research projects:</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
+            <div class="icon"><i class="icofont-dna-alt-2"></i></div>
+            <h4 class="title"><a href="">Biomedical Images</a></h4>
+            <p class="description">Study of Convolutional Neural Networks for Object Classification in Microscopy Images </p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon"><i class="icofont-camera"></i></div>
+            <h4 class="title"><a href=""> <a href="https://romoreira.github.io/packetvision/" target="_blank"> Packet Vision</a></h4>
+            <p class="description">  Building images from packets raw-data, considering both header and payload to provide security and privacy by transforming the raw-data packet into images.  </p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon"><i class="icofont-user-female"></i></div>
+            <h4 class="title"><a href=""> <a href="https://meninas.ufv.br/" target="_blank"> Meninas++</a></h4>
+            <p class="description"> Women’s participation in Information Technology</p>
+          </div>
+        </div>
+        <div class="section-title">
+          <h3><strong>Students</strong> </h3>
+
+          <h5><strong>Undergraduate Students</strong></h5>
+
+          <h5><strong>2025</strong></h5>
+          <div class="portfolio-item">
+              <ul> 
+                <li>João Vítor Souto de Lima</li>
+                <li>Luiz Felipe de Castro Vilas Boas</li>
+              </ul>
+          </div>     
+          
+          <h5><strong>2023</strong></h5>
+          <div class="portfolio-item">
+              <ul> 
+                <li><a href="https://repositorio.ufu.br/handle/123456789/38294" target="_blank"> Thiago Vieira Machado (co-supervised with Bruno A. N. Travençolo)</a></li>
+              </ul>
+          </div>            
+
+
+          
+          
+
+          <h5><strong>2021</strong></h5>
+          <div class="portfolio-item">
+              <ul> 
+                <li><a href="assets/presentations/2021_tcc_VictorCardoso.pdf" target="_blank"> Victor Júnio Alcântara Cardoso (co-supervised with João Fernando Mari)</a></li>
+                <li><a href="assets/presentations/2021_tcc_LeonardoRodrigues.pdf" target="_blank"> Leonardo Gabriel Ferreira Rodrigues (co-supervised with João Fernando Mari)</a></li>
+              </ul>
+          </div>   
+
+          <h5><strong>2020</strong></h5>
+          <div class="portfolio-item">
+              <ul> 
+                <li><a href="assets/presentations/2020_tcc_ErikLucas.pdf" target="_blank"> Erik Lucas da Rocha</a></li>
+              </ul>
+          </div>   
+         
+          <h5><strong>2019</strong></h5>
+          <div class="portfolio-item">
+              <ul> 
+                <li><a href="assets/presentations/2019_tcc_Danilo.pdf" target="_blank"> Danilo Ferreira da Silva</a></li>
+              </ul>
+          </div>     
+        </div>	
+      </div>
+    </section><!-- End Research Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="teaching" class="portfolio section-bg">
+
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Teaching</h2>
+        </div>
+
+
+        <h4 class="title">Currently</h4>
+        <div class="portfolio-item">
+            <ul> 
+              <li> SIN 110 Programação (Programming) </li>
+              <li> SIN 323 Inteligência Artificial (Artificial Intelligence) </li>
+              <li> SIN 393 Processamento de Imagens Digitais (Digital Image Processing) </li>
+            </ul>
+        </div>  
+
+        <h4 class="title">2024-0 (Summer)</h4>
+        <div class="portfolio-item">
+            <ul> 
+              <li> SIN 492 Tópicos Especiais II (Pattern Recognition) </li>
+            </ul>
+        </div>          
+
+        <h4 class="title">2023-1</h4>
+        <div class="portfolio-item">
+            <ul> 
+              <li> SIN 110 Programação (Programming) </li>
+            </ul>
+        </div>          
+
+        <h4 class="title">2020-1</h4>
+        <div class="portfolio-item">
+            <ul> 
+              <li> SIN 110 Programação (Programming) </li>
+            </ul>
+        </div>          
+
+        <h4 class="title">2020-0 (Summer)</h4>
+        <div class="portfolio-item">
+            <ul> 
+              <li> SIN 460 Mineração de Dados (Data Mining) </li> 
+            </ul>
+        </div>        
+  
+        <h4 class="title">2019-2</h4>
+        <div class="portfolio-item">
+            <ul> 
+              <li> SIN 100 Tratamento e Análise de Dados (Data Processing and Analysis) </li> 
+              <li> SIN 110 Programação (Programming) </li>
+              <li> SIN 211 Algoritmos e Estruturas de Dados (Data Structures and Algorithms) </li>
+            </ul>
+        </div>
+
+        <h4 class="title">2019-1</h4>
+        <div class="portfolio-item">
+            <ul> 
+              <li> SIN 110 Programação (Programming) </li>
+              <li> CRP 292 Introdução à Informática (Introduction to Informatics) </li>
+            </ul>
+        </div>
+
+        <h4 class="title">2019-0 (Summer)</h4>
+        <div class="portfolio-item">
+            <ul> 
+              <li> SIN 493 Tópicos Especiais III (Deep Learning for Computer Vision) </li>
+            </ul>
+        </div>
+
+        <h4 class="title">2018-2</h4>
+        <div class="portfolio-item">
+            <ul> 
+              <li> CRP 292 Introdução à Informática (Introduction to Informatics) </li>
+              <li> SIN 100 Tratamento e Análise de Dados (Data Processing and Analysis) </li> 
+            </ul>
+        </div>
+
+        <p> Material available on <a href=""> <a href="https://ava.ufv.br/" target="_blank"> PVANet Moodle</a> UFV (restricted access).  </p>
+
+      </div>
+       
+    </section><!-- End Testimonials Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+        </div>
+
+        <div class="row" data-aos="fade-in">
+
+   
+            <div class="info">
+
+              <div class="email">
+                <i class="icofont-envelope"></i>
+                <h4>Email:</h4>
+                <p><a href="mailto:larissa.f.rodrigues@ufv.br">larissa.f.rodrigues@ufv.br</a></p>
+              </div>
+              
+              <div class="address">
+                <i class="icofont-google-map"></i>
+                <h4>Location:</h4>
+                <p>Federal University of Viçosa, Campus Rio Paranaíba, Rodovia MG 230, km7 Rio Paranaíba/MG, Brazil.</p>
+              </div>
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3767.499423757594!2d-46.22208781219996!3d-19.217054116599524!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sus!4v1598926360751!5m2!1spt-BR!2sus" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+            </div>
+
+          </div>
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright 2024 <strong><span>L.F. R. M.</span></strong>
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
