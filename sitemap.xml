@@ -1,6 +1,10 @@
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" generatedBy="WVC'2024">
-<sitemap>
-<loc>https://larissafrodrigues.github.io/pages-sitemap.xml</loc>
-<lastmod>2023-12-27</lastmod>
-</sitemap>
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://larissafrodrigues.github.io/</loc></url>
+  <url><loc>https://larissafrodrigues.github.io/about.html</loc></url>
+  <url><loc>https://larissafrodrigues.github.io/research.html</loc></url>
+  <url><loc>https://larissafrodrigues.github.io/students.html</loc></url>
+  <url><loc>https://larissafrodrigues.github.io/teaching.html</loc></url>
+  <url><loc>https://larissafrodrigues.github.io/publications.html</loc></url>
+  <url><loc>https://larissafrodrigues.github.io/contact.html</loc></url>
+</urlset>
